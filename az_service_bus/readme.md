@@ -1,0 +1,1 @@
+##Console app with menu to test Azure Service Bus Queues. It uses Azure Key Vault to retrieve the connection string needed to establish connection with Service Bus
